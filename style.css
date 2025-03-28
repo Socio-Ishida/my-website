@@ -1,0 +1,32 @@
+/* 全体の背景と文字設定 */
+body {
+  background-color: #f0f8ff;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  padding: 50px;
+}
+
+/* 見出し */
+h1 {
+  color: #0066cc;
+  font-size: 36px;
+  text-align: center;
+}
+
+/* 段落 */
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+/* ボックスのスタイル */
+.box {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 2px solid #0066cc;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
